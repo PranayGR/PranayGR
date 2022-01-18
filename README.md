@@ -2,7 +2,7 @@
 
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pranay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranaygr/](https://www.linkedin.com/in/pranaygr/)
+[![Linkedin Badge](https://img.shields.io/badge/-Pranay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranaygr/)](https://www.linkedin.com/in/pranaygr/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Pranay-green)](https://pranaygr.github.io/Profile-Site/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Pranay-yellow)](https://stackoverflow.com/users/17860513/pranaygr)
 
